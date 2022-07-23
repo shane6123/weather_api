@@ -1,0 +1,61 @@
+.container-fluid{
+    background-color:#3F4E4F;
+    padding: 5% 10%;
+}
+.footer{
+    background-color: #0F0E0E;
+    color:#fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.img{
+    height: 450px;
+    width: 400px;
+}
+.wea-box{
+    align-items: center;
+    margin: 100px 0;
+    color: aquamarine;
+}
+.navbar{
+    padding: 10px 10%;
+}
+.search{
+    background-color: #0F0E0E;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 40%;
+    margin: 40px auto;
+}
+input{
+    background-color: #0F0E0E;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+   
+    margin: 0;
+    padding: 0;
+}
+.second{
+    background-color: #0F0E0E;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 40%;
+    padding: 20px;
+    color: #fff;
+}
+.about{
+    padding: 10px 10%;
+    text-align: center;
+    margin:  50px;
+    color: aqua;
+}
+
+#cityname{
+    width: 68%;
+    color: white;
+   
+}
